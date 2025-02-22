@@ -13,5 +13,15 @@ class Program
         Console.WriteLine($"Difference: {a - b}");
         Console.WriteLine($"Product: {a * b}");
         Console.WriteLine($"Quotient: {a / b}");
+
+        if (b != 0)
+        {
+            Console.WriteLine($"Quotient: {a / b}");
+            Console.WriteLine($"Remainder: {a % b}");
+        }
+        else
+        {
+            Console.WriteLine("Деление на ноль невозможно");
+        }
     }
 }
