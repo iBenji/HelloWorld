@@ -12,3 +12,4 @@ G:\VisualStudioProjects\ASPNet\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\Hel
 G:\VisualStudioProjects\ASPNet\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 G:\VisualStudioProjects\ASPNet\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 G:\VisualStudioProjects\ASPNet\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+G:\VisualStudioProjects\ASPNet\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
